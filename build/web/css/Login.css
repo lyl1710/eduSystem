@@ -1,0 +1,234 @@
+
+.login{
+    display: flex;
+    margin: auto;
+    width: 981px;
+    margin-top: -110px;
+}
+.loginTitle h2,h4{
+    text-align: center;
+}
+.loginTitle h2{
+    height: 10px;
+    color: #4b6ea6;
+}
+#frmSearch{
+    background-color: rgb(240,240,240);
+}
+p{
+    color: red;
+}
+.username{
+    /*margin: auto;*/
+    display: flex;
+    height: 30px;
+}
+.password{
+    /*margin: auto;*/
+    display: flex;
+    height: 30px;
+}
+.username p{
+    margin-top: 3px;
+}
+.password p{
+    margin-top: 3px;
+}
+
+.password{
+    margin-top: 30px;
+    margin-left: 3px;
+}
+.username input{
+    height: 20px;
+    width: 200px;
+    margin-left: 10px;
+}
+.password input{
+    height: 20px;
+    width: 200px;
+     margin-left: 10px;
+}
+.input{
+    text-align: center;
+}
+.noticing{
+    display: flex;
+}
+.input form{
+    padding-left: 160px;
+}
+.noticing p{
+    margin-top: 0px;
+}
+.noticing{
+    margin-left: 80px;
+}
+.submit{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: -185px;             
+}
+.left{
+    margin-top: 90px;
+    margin-left: 10px;
+}
+.loginMid{
+    height: 350px;
+    width: 640px;
+    margin-left: 9px;
+}
+.homeTilte h2{
+    color: #4b6ea6;
+    padding-left: 10px;
+}
+
+.pagger{
+    margin-top: 30px;
+    text-align: center;
+}
+.pagger a{
+    display: inline-block;
+    background: #4b6ea6;;
+    color: #fff;
+    margin: 0 5px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.pagger a.active{
+    display: inline-block;
+    background: blue;
+    color: #fff;
+    margin: 0 5px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+table{
+    margin-left: 12px;
+    width: 615px;
+    border-collapse: collapse;
+}
+table, td{
+    height: 33px;
+    border: 1px solid rgb(205,205,205);
+}
+
+th{
+    border-left: 1px solid rgb(205,205,205);
+    height: 33px;
+    background-color: rgb(240,240,240);
+}
+.departementName{
+    color: #68a859;
+    text-align: center;
+}
+.table2{
+    width: 617px;
+    margin-left: 11px;
+}
+.table1 tr:first-child th:first-child{
+    width: 614px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 0 0 0 1px rgb(205,205,205);
+    border-style: hidden;
+}
+
+
+.table2 th{
+    font-weight: normal;
+}
+
+.view{
+    text-decoration: none;
+    color: black;
+}
+.homeMid{
+    height: auto;
+    width: 640px;
+    margin-left: 9px;
+}
+.viewMid{
+    height: auto;
+    width: 640px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.tileTable{
+    margin-left: auto;
+    margin-right: auto;
+    width: 357px;
+    text-align: center;
+}
+.search{
+    width: 380px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Solve form{
+    margin-left: 130px;
+}
+.studentID{
+    margin-left: 74px;
+}
+.studentName{
+    margin-left: 56px;
+}
+.dateCreated{
+    margin-left: 63px;
+}
+.requestTitle{
+    margin-left: 63px;
+}
+.requestContent{
+    display: flex;
+    margin-left: 45px;
+}
+.requestContent p{
+    margin-top: 0px;
+    color: black;
+}
+.Approved{
+    color: blue
+}
+.Reject{
+    color: red;
+}
+.solution{
+    display: flex;
+    margin-left: 46px;
+}
+.solution p{
+    margin-top: 0px;
+    color: black;
+}
+.requestState{
+    margin-left: 60px;
+}
+.closeDate{
+    margin-left: 76px;
+}
+.admin{
+    margin-left: 86px;
+}
+#alert{
+    margin-left: 145px;
+    display: none;
+    color: red;
+    font-size: 12px;
+}
+
+.inputSolve{
+    margin-left: 10px;
+}
+.b{
+    /*text-align: center;*/
+    margin-top: 20px;
+    margin-left: 170px;
+    /*margin-right: auto;*/
+}

@@ -1,0 +1,12 @@
+
+.header{
+    margin: 0 auto;
+    background-image: url(../images/front.jpg);
+    text-align: center;
+    width: 981px;
+    height: 216px;
+}
+.header h1,h3{
+    text-align: center;
+    color: white;
+}
